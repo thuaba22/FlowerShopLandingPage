@@ -1,3 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Lato', sans-serif;
+}
+.intro-part{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    background-size: cover;
+    padding: 0 100px;
+    
+}
+.intro-part-img{
+    width: 455px;
+
+    
+}
+.intro-title{
+    font-size: 60px;
+    font-weight: bold;
+}
+.intro-des{
+    color: #27272799;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn{
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    border: none;
+    color: white;
+    font-size: 20px;
 }
