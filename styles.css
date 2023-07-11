@@ -193,3 +193,12 @@ input{
     width: 400px;
     padding-left: 22px;
 }
+/* customer section */
+.customer-list-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.customer-img{
+    width: 400px;
+}
