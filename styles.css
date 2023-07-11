@@ -190,7 +190,7 @@ margin-bottom: 20px;
 input{
     border: none;
     border-radius: 8px;
-    width: 400px;
+    width: 500px;
     padding-left: 22px;
 }
 /* customer section */
@@ -198,7 +198,30 @@ input{
     display: flex;
     justify-content: center;
     gap: 10px;
+    
 }
 .customer-img{
     width: 400px;
+
 }
+/* footer section */
+footer{
+    
+    background-color: black;
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    height: 300px;
+    padding-top: 150px;
+
+
+}
+.footer-des{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #FFFFFFE5;
+}
+.footer-copyright{
+    color: #FFFFFF66;
+}
+
