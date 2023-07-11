@@ -162,3 +162,34 @@ margin-bottom: 20px;
     display: block;
     
 }
+/* subscribe section */
+.subscribe-container{
+    background-image: url("./background-img/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    height: 300px;
+   
+    
+}
+    
+.subscribe-info{
+    margin-bottom: 15px;
+
+}
+.subscribe-title{
+    padding-top: 50px;
+}
+.subcribe-input-field{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+input{
+    border: none;
+    border-radius: 8px;
+    width: 400px;
+    padding-left: 22px;
+}
