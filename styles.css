@@ -39,6 +39,9 @@ body {
   font-size: 20px;
 }
 /* features item section */
+.features-flower-container{
+    height:auto;
+}
 
 .feature-title {
   color: #272727;
@@ -109,6 +112,7 @@ body {
 /* this hot deal section */
 .hot-deal-container {
   background-color: #e554730d;
+  background-size: cover;
   margin-top: 60px;
   display: flex;
   justify-content: space-around;
@@ -142,4 +146,19 @@ margin-bottom: 20px;
     width: 200px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+/* social site section */
+.more-flower-img{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.social-des{
+    margin-bottom: 15px;
+}
+.more-flower{
+    width: 210px;
+    display: block;
+    
 }
